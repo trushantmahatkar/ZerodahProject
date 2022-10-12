@@ -1,0 +1,79 @@
+2022-10-09 15:19:48,661  INFO [main] ZerodahProject:44 - Url is Opened
+2022-10-09 15:19:48,953  INFO [main] ZerodahProject:51 - UserID is Entered
+2022-10-09 15:19:49,088  INFO [main] ZerodahProject:53 - Password is Entered
+2022-10-09 15:19:49,161  INFO [main] ZerodahProject:55 - Clicked on Login Button
+2022-10-09 15:24:06,272  INFO [main] ZerodahProject:44 - Url is Opened
+2022-10-09 15:24:06,445  INFO [main] ZerodahProject:51 - UserID is Entered
+2022-10-09 15:24:06,566  INFO [main] ZerodahProject:53 - Password is Entered
+2022-10-09 15:24:06,638  INFO [main] ZerodahProject:55 - Clicked on Login Button
+2022-10-09 15:24:21,766  INFO [main] ZerodahProject:58 - Clicked on Continue Button
+2022-10-09 15:24:28,355  INFO [main] ZerodahProject:66 - end of program
+2022-10-09 15:24:29,889  INFO [main] ZerodahProject:31 - Browser is Opened
+2022-10-09 15:24:32,984  INFO [main] ZerodahProject:44 - Url is Opened
+2022-10-09 15:24:33,122  INFO [main] ZerodahProject:51 - UserID is Entered
+2022-10-09 15:24:33,301  INFO [main] ZerodahProject:53 - Password is Entered
+2022-10-09 15:24:33,372  INFO [main] ZerodahProject:55 - Clicked on Login Button
+2022-10-09 15:24:48,493  INFO [main] ZerodahProject:58 - Clicked on Continue Button
+2022-10-09 15:24:53,959  INFO [main] ZerodahProject:21 - Share Name Entered
+2022-10-09 15:24:58,057  INFO [main] ZerodahProject:25 - Share is Selected
+2022-10-09 15:24:58,587  INFO [main] ZerodahProject:66 - end of program
+2022-10-09 15:24:59,984  INFO [main] ZerodahProject:31 - Browser is Opened
+2022-10-09 15:25:03,320  INFO [main] ZerodahProject:44 - Url is Opened
+2022-10-09 15:25:03,474  INFO [main] ZerodahProject:51 - UserID is Entered
+2022-10-09 15:25:03,629  INFO [main] ZerodahProject:53 - Password is Entered
+2022-10-09 15:25:03,707  INFO [main] ZerodahProject:55 - Clicked on Login Button
+2022-10-09 15:25:18,838  INFO [main] ZerodahProject:58 - Clicked on Continue Button
+2022-10-09 15:25:23,940  INFO [main] ZerodahProject:21 - Clicked on Profile
+2022-10-09 15:25:26,236  INFO [main] ZerodahProject:24 - Clicked on Logout
+2022-10-09 15:25:28,709  INFO [main] ZerodahProject:66 - end of program
+2022-10-09 15:25:30,097  INFO [main] ZerodahProject:31 - Browser is Opened
+2022-10-09 15:25:33,413  INFO [main] ZerodahProject:44 - Url is Opened
+2022-10-09 15:25:33,577  INFO [main] ZerodahProject:51 - UserID is Entered
+2022-10-09 15:25:33,703  INFO [main] ZerodahProject:53 - Password is Entered
+2022-10-09 15:25:33,774  INFO [main] ZerodahProject:55 - Clicked on Login Button
+2022-10-09 15:25:48,870  INFO [main] ZerodahProject:58 - Clicked on Continue Button
+2022-10-09 15:25:54,359  INFO [main] ZerodahProject:21 - Share Entered
+2022-10-09 15:25:56,778  INFO [main] ZerodahProject:66 - end of program
+2022-10-09 16:08:33,621  INFO [main] ZerodahProject:44 - Url is Opened
+2022-10-09 16:08:34,027  INFO [main] ZerodahProject:51 - UserID is Entered
+2022-10-09 16:08:34,206  INFO [main] ZerodahProject:53 - Password is Entered
+2022-10-09 16:08:34,286  INFO [main] ZerodahProject:55 - Clicked on Login Button
+2022-10-09 16:08:49,411  INFO [main] ZerodahProject:58 - Clicked on Continue Button
+2022-10-09 16:08:54,891  INFO [main] ZerodahProject:21 - Share Entered
+2022-10-09 16:08:57,331  INFO [main] ZerodahProject:66 - end of program
+2022-10-09 17:03:28,454  INFO [main] ZerodahProject:44 - Url is Opened
+2022-10-09 17:03:28,606  INFO [main] ZerodahProject:51 - UserID is Entered
+2022-10-09 17:03:28,732  INFO [main] ZerodahProject:53 - Password is Entered
+2022-10-09 17:03:28,800  INFO [main] ZerodahProject:55 - Clicked on Login Button
+2022-10-09 17:03:43,921  INFO [main] ZerodahProject:58 - Clicked on Continue Button
+2022-10-09 17:03:49,508  INFO [main] ZerodahProject:21 - Share Entered
+2022-10-09 17:03:51,592  INFO [main] ZerodahProject:24 - Share is Selected
+2022-10-09 17:03:53,846  INFO [main] ZerodahProject:28 - Clicked on Buy icon
+2022-10-09 17:04:26,387  INFO [main] ZerodahProject:66 - end of program
+2022-10-09 17:07:38,072  INFO [main] ZerodahProject:44 - Url is Opened
+2022-10-09 17:07:38,339  INFO [main] ZerodahProject:51 - UserID is Entered
+2022-10-09 17:07:38,496  INFO [main] ZerodahProject:53 - Password is Entered
+2022-10-09 17:07:38,568  INFO [main] ZerodahProject:55 - Clicked on Login Button
+2022-10-09 17:07:53,641  INFO [main] ZerodahProject:58 - Clicked on Continue Button
+2022-10-09 17:07:59,358  INFO [main] ZerodahProject:21 - Share Entered
+2022-10-09 17:08:01,454  INFO [main] ZerodahProject:24 - Share is Selected
+2022-10-09 17:08:03,764  INFO [main] ZerodahProject:28 - Clicked on Buy icon
+2022-10-09 17:08:36,091  INFO [main] ZerodahProject:66 - end of program
+2022-10-09 17:42:10,655  INFO [main] ZerodahProject:44 - Url is Opened
+2022-10-09 17:42:10,939  INFO [main] ZerodahProject:51 - UserID is Entered
+2022-10-09 17:42:11,074  INFO [main] ZerodahProject:53 - Password is Entered
+2022-10-09 17:42:11,192  INFO [main] ZerodahProject:55 - Clicked on Login Button
+2022-10-09 17:42:26,317  INFO [main] ZerodahProject:58 - Clicked on Continue Button
+2022-10-09 17:42:31,786  INFO [main] ZerodahProject:21 - Share Entered
+2022-10-09 17:42:34,142  INFO [main] ZerodahProject:25 - Share is Selected
+2022-10-09 17:42:36,591  INFO [main] ZerodahProject:30 - Clicked on Buy icon
+2022-10-09 17:43:09,353  INFO [main] ZerodahProject:66 - end of program
+2022-10-09 17:46:30,414  INFO [main] ZerodahProject:44 - Url is Opened
+2022-10-09 17:46:30,593  INFO [main] ZerodahProject:51 - UserID is Entered
+2022-10-09 17:46:30,778  INFO [main] ZerodahProject:53 - Password is Entered
+2022-10-09 17:46:30,919  INFO [main] ZerodahProject:55 - Clicked on Login Button
+2022-10-09 17:46:46,022  INFO [main] ZerodahProject:58 - Clicked on Continue Button
+2022-10-09 17:46:51,469  INFO [main] ZerodahProject:21 - Share Entered
+2022-10-09 17:46:53,793  INFO [main] ZerodahProject:25 - Share is Selected
+2022-10-09 17:46:56,258  INFO [main] ZerodahProject:30 - Clicked on Buy icon
+2022-10-09 17:47:29,089  INFO [main] ZerodahProject:66 - end of program
